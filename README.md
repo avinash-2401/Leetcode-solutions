@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Design
@@ -32,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avinash-2401/Leetcode-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
