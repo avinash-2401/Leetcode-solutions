@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0209-minimum-size-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Sorting
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
