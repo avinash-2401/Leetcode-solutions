@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1025-divisor-game) |
