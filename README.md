@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0504-base-7](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1025-divisor-game](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1025-divisor-game) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0504-base-7](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0504-base-7) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1768-merge-strings-alternately) |
