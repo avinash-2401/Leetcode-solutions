@@ -1,17 +1,16 @@
 class Solution {
-    public boolean isPalindrome(int n) {
-        if(n<0) return false;
+    public boolean isPalindrome(int x) {
+        int copy =x;
+        int answer = 0;
 
-        int answer =0;  int copy = n;
-        
+        while(x > 0){
+         int    rem = x%10;
+            x/=10;
 
-        while(n >0){
-           int rem = n%10;
-            n/=10;
+            answer = (answer*10) + rem;
 
-            answer = (answer*10) +rem;
         }
-        if(answer==copy) return true;
+        if(answer == copy) return true;
 
         else return false;
         
