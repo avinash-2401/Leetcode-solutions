@@ -1,32 +1,41 @@
-import java.util.*;
-
 class MyStack {
-    Queue<Integer> q;
+    Queue<Integer> q1;
+    Queue<Integer> q2;
 
     public MyStack() {
-        q = new LinkedList<>();
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
+        
     }
     
     public void push(int x) {
-        q.add(x);
+        while(!q1.isEmpty()){
+            q2.add(q1.remove());
 
-        // Move all previous elements behind x
-        int n = q.size();
-        for (int i = 1; i < n; i++) {
-            q.add(q.remove());
         }
+        q1.add(x);
+
+        while(!q2.isEmpty()){
+            q1.add(q2.remove());
+        }
+        
     }
     
     public int pop() {
-        return q.remove();
+        int temp = q1.remove();
+        return temp;
+        
     }
     
     public int top() {
-        return q.peek();
+        int ans = q1.peek();
+        return ans;
+        
     }
     
     public boolean empty() {
-        return q.isEmpty();
+        return q1.isEmpty();
+        
     }
 }
 
