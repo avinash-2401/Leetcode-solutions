@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
