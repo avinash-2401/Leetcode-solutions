@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/avinash-2401/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/avinash-2401/Leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
