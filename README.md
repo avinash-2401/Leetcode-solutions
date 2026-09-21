@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0056-merge-intervals](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0633-sum-of-square-numbers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
