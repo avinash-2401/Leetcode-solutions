@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0682-baseball-game) |
 | [0877-stone-game](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0877-stone-game) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/avinash-2401/Leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/avinash-2401/Leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
